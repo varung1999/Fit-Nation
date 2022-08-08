@@ -1,1 +1,4 @@
-Culinary King is an e-commerce website on some of the most mouth-watering dishes out there (Front-end). This website has a huge collection of delicious items beautifully presented  using carousels and parallax scrolling CSS features flavored with Bootstrap with the contact page containing a google map attached to it the embedded API, thereby providing it with a cent percent professional look. 
+•	Designed and developed a web application that predicts the calorie intake that the user must have
+•	according to the user’s lifestyle.
+•	A healthy diet is suggested and alternatives are provided according to the user’s requirements.
+•	The application allows user to order healthy food from curated list of choices.
